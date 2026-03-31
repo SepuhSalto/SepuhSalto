@@ -20,13 +20,11 @@ Rather than just writing syntax, I focus on deploying the right tools for the ri
 A quantitative look at my recent contributions and consistency.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SepuhSalto&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SepuhSalto&theme=radical&hide_border=true" width="48%" />
 </div>
 
-*(Catatan: Ganti tulisan `USERNAME_GITHUB_ANDA` pada dua tautan di atas dengan username GitHub asli Anda agar metriknya berfungsi).*
 
----
 
 ### 🌌 Beyond the Screen
 * **Discipline:** I apply the same principles of progressive overload and consistency from strength training and bodybuilding into my academic and professional growth.
