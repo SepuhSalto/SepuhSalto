@@ -20,7 +20,6 @@ Rather than just writing syntax, I focus on deploying the right tools for the ri
 A quantitative look at my recent contributions and consistency.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SepuhSalto&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SepuhSalto&theme=radical&hide_border=true" width="48%" />
 </div>
 
@@ -36,5 +35,4 @@ A quantitative look at my recent contributions and consistency.
 ### 🔗 Let's Connect
 Looking for critical discussions on AI development, tech infrastructure, or cinema? Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_ANDA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white)](LINK_PORTFOLIO_ATAU_SOCMED_LAIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-ali-fahlevi-22014b286/)
